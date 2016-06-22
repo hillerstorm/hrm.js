@@ -1,0 +1,19 @@
+{
+  "name": "hrm.js",
+  "version": "1.0.0",
+  "description": "Human Resource Machine simulator",
+  "main": "runner.js",
+  "scripts": {
+    "test": "node examples/prime.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hillerstorm@github.com/hillerstorm/hrm.js.git"
+  },
+  "author": "Johan Hillerström <progr@mmer.nu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillerstorm/hrm.js/issues"
+  },
+  "homepage": "https://github.com/hillerstorm/hrm.js#readme"
+}
